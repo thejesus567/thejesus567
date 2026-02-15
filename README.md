@@ -20,11 +20,11 @@ I'm a DevOps & Cloud Engineer and I really enjoy what I do.
 Here’s a short summary about me:
 
 ### 🛠️ My expertise
-- AWS
-- Terraform
-- Kubernetes
-- Linux (GNU/Linux-based systems)
-- Docker
+- ☁️ AWS
+- 🌍 Terraform
+- ☸️ Kubernetes
+- 🐧 Linux (GNU/Linux-based systems)
+- 🐳 Docker
 
 ### 💻 Languages I have worked with
 - Java
