@@ -34,4 +34,4 @@ Here’s a short summary about me:
 
 ### About me
 I love technology a lot, especially DevOps and cloud tools.  
-I enjoy building things, automating stuff, and playing with Linux.
+I enjoy building things, automating stuff, and playing with open source.
