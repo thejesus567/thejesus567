@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Jesús 👋
 
+### About me
 I'm a DevOps & Cloud Engineer currently working at IBM, and I have a Bachelor's degree in Systems Engineering.  
 I really enjoy what I do. Here’s a short summary about me:
 
@@ -34,6 +35,5 @@ I really enjoy what I do. Here’s a short summary about me:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go  
 
-### About me
-I love technology a lot, especially DevOps and cloud tools.  
-I enjoy building things, automating stuff, and playing with open source.
+### What I enjoy
+I love technology a lot, especially DevOps and cloud tools. I enjoy building things, automating stuff, and playing with open source.
