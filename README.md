@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 # Hi, I'm Jesús 👋
 
-I'm a DevOps & Cloud Engineer and I really enjoy what I do.  
-Here’s a short summary about me:
+I'm a DevOps & Cloud Engineer currently working at IBM, and I have a Bachelor's degree in Systems Engineering.  
+I really enjoy what I do. Here’s a short summary about me:
 
 ### My expertise
 - ☁️ AWS  
