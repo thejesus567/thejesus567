@@ -37,3 +37,6 @@ I really enjoy what I do. Here’s a short summary about me:
 
 ### What I enjoy
 I love technology a lot, especially DevOps and cloud tools. I enjoy building things, automating stuff, and playing with open source.
+
+## Contact
+- ✉️ Email: thejesus567@gmail.com
