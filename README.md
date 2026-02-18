@@ -39,4 +39,5 @@ I really enjoy what I do. Here’s a short summary about me:
 I love technology a lot, especially DevOps and cloud tools. I enjoy building things, automating stuff, and playing with open source.
 
 ## Contact
-- ✉️ Email: thejesus567@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/jesusivanlc  
+📩 Email: thejesus567@gmail.com
