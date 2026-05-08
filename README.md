@@ -8,7 +8,7 @@ Focused on:
 - DevOps  
 - Kubernetes  
 
-I love technology a lot, especially DevOps and Clou. I enjoy building things, automating stuff, and playing with open source.
+I love technology a lot, especially DevOps and Cloud. I enjoy building things, automating stuff, and playing with open source.
 
 
 ## Connect with me
