@@ -1,6 +1,6 @@
 # Jesús Iván Lemus Cervantes
 
-DevOps & Cloud Engineer at IBM with 6 years of experience in IT.  
+DevOps at EPAM Systems with 6 years of experience in IT.  
 Focused on:
 
 - Automation  
